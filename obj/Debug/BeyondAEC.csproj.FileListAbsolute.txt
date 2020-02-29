@@ -1,0 +1,6 @@
+D:\source\repos\BeyondAEC\BeyondAEC\bin\BeyondAEC.dll
+D:\source\repos\BeyondAEC\BeyondAEC\bin\BeyondAEC.pdb
+D:\source\repos\BeyondAEC\BeyondAEC\obj\Debug\BeyondAEC.csproj.CoreCompileInputs.cache
+D:\source\repos\BeyondAEC\BeyondAEC\obj\Debug\BeyondAEC.dll
+D:\source\repos\BeyondAEC\BeyondAEC\obj\Debug\BeyondAEC.pdb
+D:\source\repos\BeyondAEC\BeyondAEC\obj\Debug\BeyondAEC.csprojAssemblyReference.cache
