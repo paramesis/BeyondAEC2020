@@ -4,3 +4,8 @@ D:\source\repos\BeyondAEC\BeyondAEC\obj\Debug\BeyondAEC.csproj.CoreCompileInputs
 D:\source\repos\BeyondAEC\BeyondAEC\obj\Debug\BeyondAEC.dll
 D:\source\repos\BeyondAEC\BeyondAEC\obj\Debug\BeyondAEC.pdb
 D:\source\repos\BeyondAEC\BeyondAEC\obj\Debug\BeyondAEC.csprojAssemblyReference.cache
+C:\Users\mbreau\source\repos\BeyondAEC2020\BeyondAEC2020\bin\BeyondAEC.dll
+C:\Users\mbreau\source\repos\BeyondAEC2020\BeyondAEC2020\bin\BeyondAEC.pdb
+C:\Users\mbreau\source\repos\BeyondAEC2020\BeyondAEC2020\obj\Debug\BeyondAEC.csprojAssemblyReference.cache
+C:\Users\mbreau\source\repos\BeyondAEC2020\BeyondAEC2020\obj\Debug\BeyondAEC.dll
+C:\Users\mbreau\source\repos\BeyondAEC2020\BeyondAEC2020\obj\Debug\BeyondAEC.pdb

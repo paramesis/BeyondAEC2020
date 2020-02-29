@@ -57,6 +57,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Room.cs" />
+    <Compile Include="RoomReader.cs" />
+    <Compile Include="RoomMaker.cs" />
     <Compile Include="RoomPlacer.cs" />
     <Compile Include="BeyondAECInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
